@@ -1,0 +1,19 @@
+import react from "react"- 👋 Hi, I’m @pilliNandini
+import reactDom from "reactDom/client"
+function Hello (props){
+Return< h1> (hello world)!</h1>;
+}
+const container= document.getelementbyId('root');
+const root=ReactDOM.createroot(container);
+root.render(<hello/>);
+;- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+pilliNandini/pilliNandini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
